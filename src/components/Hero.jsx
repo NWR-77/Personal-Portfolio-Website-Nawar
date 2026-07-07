@@ -33,7 +33,7 @@ const Hero = () => {
               <div className="card-body">
                 <div className="stat-row">
                   <span className="stat-label">CGPA</span>
-                  <span className="stat-value">3.77 / 4.00</span>
+                  <span className="stat-value">3.80 / 4.00</span>
                 </div>
                 <div className="stat-row">
                   <span className="stat-label">University</span>

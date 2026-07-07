@@ -42,8 +42,8 @@ const About = () => {
           
           <div className="about-stats">
             <div className="stat-box">
-              <span className="stat-num">3.77</span>
-              <span className="stat-desc">Current CGPA</span>
+              <span className="stat-num">3.80</span>
+              <span className="stat-desc">Final CGPA</span>
             </div>
             <div className="stat-box">
               <span className="stat-num">5+</span>

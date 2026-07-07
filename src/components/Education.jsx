@@ -5,8 +5,8 @@ const Education = () => {
     {
       title: "B.Sc. in Industrial and Production Engineering",
       org: "Bangladesh University of Engineering and Technology (BUET)",
-      period: "JAN 2022 – May 2026 (Expected)",
-      details: ["CGPA: 3.77 / 4.00", "Dean's List Award 2024", "Thesis: Nanocomposites for Sustainable Packaging"],
+      period: "JAN 2022 – June 2026",
+      details: ["CGPA: 3.80 / 4.00", "Dean's List Award 2024", "Thesis: Nanocomposites for Sustainable Packaging"],
       logo: "/buet_logo.svg"
     },
     {
