@@ -6,7 +6,7 @@ const Hero = () => {
       <div className="container">
         <div className="hero-grid">
           <div className="hero-text animate-reveal-up">
-            <div className="badge">Available for Projects</div>
+            <div className="badge">Open to Opportunities</div>
             <h1 className="hero-title text-gradient">
               Engineering <br />
               <span>Precision</span> & <br />
